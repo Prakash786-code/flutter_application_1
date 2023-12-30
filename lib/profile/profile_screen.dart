@@ -60,7 +60,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     fontWeight: FontWeight.bold),
               ),
               SizedBox(
-                height: 10,
+                height: 15,
               ),
               Container(
                 width: 200,
